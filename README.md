@@ -11,7 +11,7 @@
 </p>
 
 ## About The Project
-
+A variety of client feedback is presented in a distinctive grid structure tailored for every device
 <br />
 
 <img src="https://i.ibb.co/wMH48zZ/2023-05-08-111656.png" />
